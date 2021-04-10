@@ -3,7 +3,7 @@
     "description": "A small package that provides an object to create a file system from a given \"seed\" directory",
     "type": "project",
     "version": "1.0.0",
-    "license": "GNU General Public License v3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Steve Lewis",
