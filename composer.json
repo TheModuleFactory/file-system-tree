@@ -2,7 +2,7 @@
     "name": "themodulefactory/file-system-tree",
     "description": "A small package that provides an object to create a file system listing of a given \"seed\" directory",
     "type": "library",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
