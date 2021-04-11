@@ -27,20 +27,12 @@ FileSystemTree constructor.<br>
 The object has the following properties;
 * \$fileSystemTree
     * \@var private array|null
-    
-
 * \$listRootFolders
     * \@var private array
-    
-
 * \$listFoldersAndFiles
     * \@var private array
-    
-
 * \$listFolders
     * \@var private array
-    
-
 * \$listFiles
     * \@var private array
 
@@ -49,20 +41,12 @@ The object has the following properties;
 ### Methods
 * getFileSystemTree ()
     * \@return array|null
-    
-
 * getListRootFolders ()
     * \@return array
-    
-
 * getListFoldersAndFiles ()
     * \@return array
-    
-
 * getListFolders ()
     * \@return array
-    
-
 * getListFiles ()
     * \@return array
 
