@@ -4,6 +4,12 @@
     "type": "library",
     "version": "1.1.0",
     "license": "GPL-3.0-or-later",
+    "keywords": [
+        "Files",
+        "Folders",
+        "Files and Folders tree",
+        "File system tree"
+    ],
     "authors": [
         {
             "name": "Steve Lewis",
