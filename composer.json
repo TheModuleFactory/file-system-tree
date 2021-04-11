@@ -2,7 +2,6 @@
     "name": "themodulefactory/file-system-tree",
     "description": "A small package that provides a class that defines an object which lists all sub folder nodes and the files within a given \"seed\" directory",
     "type": "library",
-    "version": "1.1.0",
     "license": "GPL-3.0-or-later",
     "keywords": [
         "files list",
@@ -27,9 +26,6 @@
         "psr-4": {
             "FileSystemTree\\": "src/"
         }
-    },
-    "suggest": {
-        "ext-filter": "Required to use the boolean validator."
     },
     "config": {
         "preferred-install": "dist"
