@@ -1,8 +1,8 @@
 {
     "name": "themodulefactory/file-system-tree",
-    "description": "A small package that provides an object to create a list of file system folders and files under a given \"seed\" directory",
+    "description": "A small package that provides a class that defines an object which lists all sub folder nodes and the files within a given \"seed\" directory",
     "type": "library",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Package\\": "Scripts/"
+            "FileSystemTree\\": "Scripts/"
         }
     }
 }

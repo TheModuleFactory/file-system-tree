@@ -3,10 +3,33 @@
 namespace Package\Classes;
 
 /**
- * Class ReadTree
+ * @copyright 2021 &copy; Steve R. Lewis, The Module Factory Ltd.
+ *
+ * @author Steve R. Lewis <steve@themodulefactory.com>
+ * The Module Factory Ltd. Company Number; 09989173
+ * https://www.themodulefactory.com
+ *
+ * A small package that provides a class that defines an object which lists all sub folder nodes and the files
+ * within a given "seed" directory.
+ *
+ * This program is free software: you can redistribute it and/or modify it under the terms of the
+ * GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License,
+ * or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+ * implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * @license https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE
+ * See the GNU Affero General Public License Version 3 for more details.
+ * You should have received a copy of the GNU Affero General Public License along with this program.
+ * If not, see <https://www.gnu.org/licenses/>.
+ *
+ * @version 1.0.0
+ *
+ * Class FileSystemTree
  * @package Package\Classes
  */
-class ReadTree
+class FileSystemTree
 {
     /**
      * @var array|null
@@ -30,7 +53,7 @@ class ReadTree
     private array $listFiles;
 
     /**
-     * ReadTree constructor.
+     * FileSystemTree constructor.
      * @param string $dirRead
      */
     public function __construct(string $dirRead = DIRECTORY_SEPARATOR)
