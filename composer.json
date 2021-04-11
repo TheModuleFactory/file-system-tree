@@ -27,5 +27,16 @@
         "psr-4": {
             "FileSystemTree\\": "Scripts/"
         }
+    },
+    "suggest": {
+        "ext-filter": "Required to use the boolean validator."
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1-dev"
+        }
     }
 }

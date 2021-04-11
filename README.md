@@ -9,8 +9,13 @@ If no directory path is supplied to the object constructor when the object is in
 ***
 
 ## Installation
+Easy installation using [Composer](https://getcomposer.org/):
 
-```composer require themodulefactory/file-system-tree```
+```bash
+$ composer require themodulefactory/file-system-tree
+```
+
+or add it manually to your `composer.json` file.
 
 ***
 
