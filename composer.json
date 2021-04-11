@@ -5,10 +5,13 @@
     "version": "1.1.0",
     "license": "GPL-3.0-or-later",
     "keywords": [
-        "Files",
-        "Folders",
-        "Files and Folders tree",
-        "File system tree"
+        "files list",
+        "folder",
+        "files and folders",
+        "file system tree",
+        "directory list",
+        "directory tree",
+        "recursive file listing"
     ],
     "authors": [
         {
