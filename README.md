@@ -2,9 +2,9 @@
 
 @Version1.1.0
 
-Provides a class definition which can be used to instantiate an object that has properties and methods for manipulating lists of all the subfolder nodes and files contained within subfolder nodes for a defined parent directory.  The specific parent directory can be passed as an optional argument to the object constructor.
+Provides a class definition which can be used to instantiate an object that has properties and methods for manipulating lists of all the subfolder nodes and files contained within a defined parent directory.  The specific parent directory can be passed as an optional argument to the object constructor.
 
-If no directory path is supplied to the object constructor when the object is instantiated, the new object defaults to the directory of the local host system from where the php CLI was called.
+If no parent directory path is supplied to the object constructor when the object is instantiated, the new object defaults to the directory of the local host system from where the php CLI was called.
 
 ***
 
