@@ -63,15 +63,22 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABI
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
-This package contains a copy of the MIT License available here;
+***
+### **DISCLAIMER**<br>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
 ***
 ### **LICENSE DETAILS**
-[https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE](https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE)
+* [https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE](https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE)
 
-For more information regarding Open Source Licensing you can visit;<br><br>
-[**https://www.mit.edu/~amini/LICENSE.md**](https://www.mit.edu/~amini/LICENSE.md)
-[**https://opensource.org/licenses/MIT**](https://opensource.org/licenses/MIT)
+For more information regarding Open Source Licensing you can visit;<br>
+1. [**https://www.mit.edu/~amini/LICENSE.md**](https://www.mit.edu/~amini/LICENSE.md)
+
+2. [**https://opensource.org/licenses/MIT**](https://opensource.org/licenses/MIT)
 
 ***
 ### **AUTHOR**
