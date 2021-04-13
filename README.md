@@ -56,14 +56,24 @@ The object has the following properties;
     * \@return array
 
 ***
+### **DISCLAIMER**<br>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
-**This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
+This package contains a copy of the MIT License available here;
 
-&nbsp;&nbsp;&nbsp;&nbsp;License [https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE](https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE)
+***
+### **LICENSE DETAILS**
+[https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE](https://github.com/TheModuleFactory/file-system-tree/blob/main/LICENSE)
 
-&nbsp;&nbsp;&nbsp;&nbsp;See the GNU Affero General Public License Version 3 for more details.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;You should have received a copy of the GNU Affero General Public License along with this program.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;If not, see [https://www.gnu.org/licenses](https://www.gnu.org/licenses).
+For more information regarding Open Source Licensing you can visit;<br><br>
+[**https://www.mit.edu/~amini/LICENSE.md**](https://www.mit.edu/~amini/LICENSE.md)
+[**https://opensource.org/licenses/MIT**](https://opensource.org/licenses/MIT)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Author Steve R. Lewis <steve@themodulefactory.com><br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**Copyright 2021 &copy; The Module Factory Ltd.** Company Number; 09989173](https://www.themodulefactory.com)
+***
+### **AUTHOR**
+**Steve Lewis** <steve@themodulefactory.com><br>
+[**Copyright 2021 &copy; The Module Factory Ltd.** Company Number; 09989173](https://www.themodulefactory.com)
