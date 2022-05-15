@@ -12,7 +12,7 @@ If no parent directory path is supplied to the object constructor when the objec
 Easy installation using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require themodulefactory/file-system-tree
+$ composer require steve-r-lewis/file-system-tree
 ```
 
 or add it manually to your `composer.json` file.
